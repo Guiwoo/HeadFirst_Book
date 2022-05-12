@@ -15,23 +15,26 @@
   - 객체를 만들어서 레퍼런스 변수로 한개 보내주면됨
   - 앞서 말한 작은 값은 큰 타입에 닮길수 있다는 것 리턴에도 적용됨
     - ex>
-    ```java
-      short iAmGoing(){};
-      int x = iAmGoing();
-    ```
+
+```java
+  short iAmGoing(){};
+  int x = iAmGoing();
+```
 
 - 리턴 값을 보낸다고 해서 굳이 받아서 새로운 것을 안해도 컴파일 및 작동 문제없음
 
 ## 2. 자바에서는 값을 전달한다(복사본을 전달한다.);
 
 - 예시
-  ```java
-  int x = 7; => 00000111
-  void go(int z){};
-  go(x);
-  ```
-  - go 에서 호출한 x 의 값(00000111) 이 z 에 복사가 됨;
-  - 그럼 원시변수 들은 다복사가 되면 2-64 까지 복사가 되는건가 ?
+
+```java
+int x = 7; => 00000111
+void go(int z){};
+go(x);
+```
+
+- go 에서 호출한 x 의 값(00000111) 이 z 에 복사가 됨;
+- 그럼 원시변수 들은 다복사가 되면 2-64 까지 복사가 되는건가 ?
 - 객체를 전달하면?
   - 객체의 주소를 복사한다(리모콘 느낌);
 
@@ -80,11 +83,10 @@ class hoit{
 - 원시변수 비교시 == 를 하면됨;
 
 ```java
-  int a = 3;
-  byte b = 3;
-  // a == b ? true // 왜 ? 비트 패턴이 같기 때문에
-  Integer c = 3;
-  Byte d = 3;
-  // c.equals(d) ? false // 왜 ? 객체 가다르니깐 Integer Byte;
-
+int a = 3;
+byte b = 3;
+// a == b ? true // 왜 ? 비트 패턴이 같기 때문에
+Integer c = 3;
+Byte d = 3;
+// c.equals(d) ? false // 왜 ? 객체 가다르니깐 Integer Byte;
 ```
