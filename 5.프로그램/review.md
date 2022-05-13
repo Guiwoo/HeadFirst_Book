@@ -7,7 +7,7 @@
     - 방법 A3 or C5 등 위치를 입력시 맞으면 hit 틀리면 miss 모두 적중시 "You sunk pets.com" 출력
 
 - 1.  고수준의 설계 부터 시작합니다.
-      ![plot](./img/img_01.png)
+      ![plot](./img_01.PNG)
 
           - 최소한 2개의 클래스가 요구 되어짐 (main 실행 클래스, Logic 클래스)
           - 메인 => main 메서드 ? ok!
