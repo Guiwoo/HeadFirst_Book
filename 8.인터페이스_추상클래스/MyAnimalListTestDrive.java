@@ -1,5 +1,16 @@
+import java.util.ArrayList;
+
 public class MyAnimalListTestDrive {
   public static void main(String[] args) {
+    ArrayList<Integer> randomList = new ArrayList();
+    for (int i = 0; i < 6; i++) {
+      randomList.add((int) Math.random() * 10);
+    }
+    String randomNum = "";
+    for (int i = 0; i < 6; i++) {
+      randomNum += Integer.toString(randomList.get(i));
+    }
+
     MyAnimalList list = new MyAnimalList();
     Dog a = new Dog();
     Cat c = new Cat();
