@@ -2,27 +2,35 @@
 
 ### 1. 껍질을 깨고
 
-- [✅Check Reivew](https://github.com/Guiwoo/HeadFirst_Book/blob/master/1.%EA%BB%8D%EC%A7%88%EC%9D%84%EA%B9%A8%EA%B3%A0/review.md)
+- [Check Reivew](https://github.com/Guiwoo/HeadFirst_Book/blob/master/1.%EA%BB%8D%EC%A7%88%EC%9D%84%EA%B9%A8%EA%B3%A0/review.md)
 
 ### 2. 클래스와 객체
 
-- [✅Check Reivew](https://github.com/Guiwoo/HeadFirst_Book/blob/master/2.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%EA%B0%9D%EC%B2%B4/review.md);
+- [Check Reivew](https://github.com/Guiwoo/HeadFirst_Book/blob/master/2.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%EA%B0%9D%EC%B2%B4/review.md);
 
 ### 3. 원시변수 와 레퍼런스
 
-- [✅Check Reivew](https://github.com/Guiwoo/HeadFirst_Book/blob/master/3.%EB%B3%80%EC%88%98_%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4/review.md)
+- [Check Reivew](https://github.com/Guiwoo/HeadFirst_Book/blob/master/3.%EB%B3%80%EC%88%98_%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4/review.md)
 
 ### 4. 객체의 행동
 
-- [✅Check Reivew](https://github.com/Guiwoo/HeadFirst_Book/blob/master/4.%EA%B0%9D%EC%B2%B4%EC%9D%98%ED%96%89%EB%8F%99/review.md)
+- [Check Reivew](https://github.com/Guiwoo/HeadFirst_Book/blob/master/4.%EA%B0%9D%EC%B2%B4%EC%9D%98%ED%96%89%EB%8F%99/review.md)
 
 ### 5. 프로그램 만들기
 
-- [✅Check Reivew](https://github.com/Guiwoo/HeadFirst_Book/blob/master/5.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/review.md)
+- [Check Reivew](https://github.com/Guiwoo/HeadFirst_Book/blob/master/5.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/review.md)
 
 ### 6. 자바 라이브러리
 
-- [✅Check Review]()
+- [Check Review](https://github.com/Guiwoo/HeadFirst_Book/blob/master/6.%EC%9E%90%EB%B0%94%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/review.md)
 - [Download](https://www.oracle.com/kr/java/technologies/javase-jdk8-doc-downloads.html)
 - [API_v7](https://docs.oracle.com/javase/7/docs/api/)
 - [API_v11](https://docs.oracle.com/en/java/javase/11/docs/api/)
+
+### 7. 상속과 다형성
+
+- [Check Review](/7.%20%EC%83%81%EC%86%8D%EA%B3%BC%EB%8B%A4%ED%98%95%EC%84%B1/review.md)
+
+### 7. 상속과 다형성
+
+- [Check Review](/8.%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4/review.md)
