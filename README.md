@@ -31,6 +31,8 @@
 
 - [Check Review](/7.%20%EC%83%81%EC%86%8D%EA%B3%BC%EB%8B%A4%ED%98%95%EC%84%B1/review.md)
 
-### 7. 상속과 다형성
+### 8. 인터페이스,추상클래스
 
 - [Check Review](/8.%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4/review.md)
+
+### 9. 생성자, 가비지 컬렉션
