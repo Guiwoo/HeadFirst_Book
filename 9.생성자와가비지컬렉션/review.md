@@ -37,6 +37,7 @@
     - "생성" 에 대해 알아보자
 
 - Duck myDuck = new Duck() ? => 생성자를 호출하는 코드이다.
+
   - 만든적이 없는데 ? new 를 누가 만들어 주는가 ?
     - 컴파일러 가 마법처럼 자동 생성해준다.
     - 단 우리가 만들지 않았을시에.
@@ -54,6 +55,7 @@
   - **생성자 안의 인자 의 순서가 다를경우 서로다른 생성자임**
     - ex> duck(int Size,boolean fly){...}
     - ex>duck(boolean fly,int Size){...}
+
 - **_핵심정리_**
   - 인스턴스 변수는 객체안에 저장된다.
   - 클래스 사용시 new 키워드를 이용한다면 생성자 라고 한다.
@@ -68,8 +70,17 @@
 
 ```java
 // 예시
-class Animal{public Animal(){System.out.println("hoit");}}
-class Hippo extends Animal{public Animal(){System.out.println("Houuuu");}}
+class Animal {
+    Animal() {
+        System.out.println("hoit");
+    }
+}
+
+class Hippo extends Animal {
+    Hippo() {
+        System.out.println("Houuuu");
+    }
+}
 // in main
 Hippo h = new Hippo();
 /**
