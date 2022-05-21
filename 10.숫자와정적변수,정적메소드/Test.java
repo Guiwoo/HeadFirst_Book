@@ -19,9 +19,20 @@ class Player {
 
     }
 }
- 
+
+class Foo3 {
+    final int x;
+    static {
+        x = 2;
+    }
+
+    public void go() {
+        System.out.println(x);
+    }
+}
+
 class Foo5 {
-     int x = 12;
+    int x = 12;
 
     public void go(final int x) {
         System.out.println(x);
