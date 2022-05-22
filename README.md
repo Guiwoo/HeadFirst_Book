@@ -36,3 +36,13 @@
 - [Check Review](/8.%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4/review.md)
 
 ### 9. 생성자, 가비지 컬렉션
+
+- [Check Review](/9.%EC%83%9D%EC%84%B1%EC%9E%90%EC%99%80%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98/review.md)
+
+### 10. 숫자는 정말 중요합니다.
+
+- [Check Review](/10.%EC%88%AB%EC%9E%90%EC%99%80%EC%A0%95%EC%A0%81%EB%B3%80%EC%88%98%2C%EC%A0%95%EC%A0%81%EB%A9%94%EC%86%8C%EB%93%9C/review.md)
+
+### 11. 예외 처리
+
+- [Check Review](/11.%EC%9C%84%ED%97%98%ED%95%9C_%ED%96%89%EB%8F%99/reivew.md)

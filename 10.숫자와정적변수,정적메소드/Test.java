@@ -21,14 +21,14 @@ class Player {
 }
 
 class Foo3 {
-    final int x;
-    static {
-        x = 2;
-    }
+    // final int x;
+    // static {
+    // x = 2;
+    // }
 
-    public void go() {
-        System.out.println(x);
-    }
+    // public void go() {
+    // System.out.println(x);
+    // }
 }
 
 class Foo5 {
