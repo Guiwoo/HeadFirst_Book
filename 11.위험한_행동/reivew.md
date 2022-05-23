@@ -74,6 +74,7 @@ public void thorwRisk() throws BadException {
    - 실제 음악 정보
 
 - 코드로 바꿔 본다면 ?
+
   1. Seqeuencer 를 구해 연다.
      - Sequencer player = MidiSystem.getSequencer();
      - player.open();
@@ -84,3 +85,22 @@ public void thorwRisk() throws BadException {
   4. Track 에 MidiEvent 를 채우고 Sequencer 를 넘겨준다.
      - t.add(myMidiEvent1);
      - plyaer.setSequence(seq);
+
+- MidiEvent 를 만드는 법
+  - 일련의 자동 재생 피아노용 악보
+  - 무서을 할지, 언제할지를 정해준다.
+
+```java
+ShortMessage a = new ShortMessage();
+a.setMessage(144,1,44,100);//44번 음표 연주 를 시작
+MidiEvent noteOn = new MidiEvent(a,1);// 가동할 시기 지정
+track.add(noteOn);
+```
+
+- a.setMessaeg(메세지유형, 채널, 연주할음,속도);
+  - 메세지 유형
+    - 144 => note On;
+    - 128 => note off;
+  - 채널 은 연주자 "1번 키보드 2번 드럼 ,등등"
+  - 연주할음 0~127 숫자가 클수록 높은음
+  - 속도 얼마나 빠르고 세게 연주할지 보통 100 을 사용

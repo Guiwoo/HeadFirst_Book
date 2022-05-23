@@ -46,3 +46,8 @@
 ### 11. 예외 처리
 
 - [Check Review](/11.%EC%9C%84%ED%97%98%ED%95%9C_%ED%96%89%EB%8F%99/reivew.md)
+
+### 12. GUI 그래픽 이야기.
+
+- [Check Review](/12.%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%B4%EC%95%BC%EA%B8%B0/review.md)
+- [Check Music App](/12.%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%B4%EC%95%BC%EA%B8%B0/musicApp.md)
