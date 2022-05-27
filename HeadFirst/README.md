@@ -60,3 +60,9 @@
 ### 14. 직렬화와 파일 입출력.
 
 -[Check Review](/HeadFirst/14.%EA%B0%9D%EC%B2%B4_%EC%A0%80%EC%9E%A5/review.md)
+
+### 15. 는 추후 업데이트.
+
+### 16. 자료구조.
+
+-[Check Review](/16.%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Review.md)
