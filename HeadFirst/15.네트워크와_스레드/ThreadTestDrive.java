@@ -13,6 +13,11 @@ class MyRunnable implements Runnable {
     }
 
     public void go() {
+        try {
+            Thread.sleep(10);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         doMore();
     }
 
