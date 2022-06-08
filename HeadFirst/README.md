@@ -63,7 +63,8 @@
 
 ### 15. 는 추후 업데이트.
 
--[Check Review](/15.%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80_%EC%8A%A4%EB%A0%88%EB%93%9C/review01.md)
+- [Check Review 1편](/15.%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80_%EC%8A%A4%EB%A0%88%EB%93%9C/review01.md)
+- [Check Review 2편](/15.%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80_%EC%8A%A4%EB%A0%88%EB%93%9C/review02.md)
 
 ### 16. 자료구조.
 
